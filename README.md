@@ -1,3 +1,5 @@
+Compared to the original version, this version support mathjax, which is added in layouts/partials/footer.html.
+
 # hugo-theme-even
 
 [![GitHub contributors](https://img.shields.io/github/contributors/olOwOlo/hugo-theme-even.svg?colorB=green)](https://github.com/olOwOlo/hugo-theme-even/contributors)
